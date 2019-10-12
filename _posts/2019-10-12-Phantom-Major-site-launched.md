@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Phantom Major, Launches Site"
 date: 2019-10-12
 ---
 
